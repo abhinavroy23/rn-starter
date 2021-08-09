@@ -7,7 +7,7 @@ const navigator = createStackNavigator(
     Home: HomeScreen,
   },
   {
-    initialRouteName: "Home",
+    initialRouteName: "Home", 
     defaultNavigationOptions: {
       title: "App",
     },
